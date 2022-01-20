@@ -3,7 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Assaf</h1>
 <h1 align="center"><b>I'm a passionate Full Stack Developer with a desire to learn</h1>
 
-
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Backend development.**
@@ -16,7 +15,7 @@
 
 - ⚡ My other hobbies **Owning an old car which I try to restore by myself.**
 
-## 🚀 Languages and Tools: 
+## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color//000000/react-native.png"/> </a> 
@@ -31,6 +30,7 @@
 </p>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/assaf-vanunu-a38bb91a1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -40,28 +40,25 @@
 
 <p align="center">
     <a href="https://github.com/ASSAFVAN/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ASSAFVAN&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Assafvanunu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ASSAFVAN&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/ASSAFVAN/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ASSAFVAN&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ASSAFVAN/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASSAFVAN&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/ASSAFVAN/github-readme-stats"><img alt="Assafvanunu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ASSAFVAN&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ASSAFVAN/github-readme-stats"><img alt="Assafvanunu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASSAFVAN&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ASSAFVAN/github-readme-activity-graph"><img alt="Assaf Vanunu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ASSAFVAN&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
-
-
 
 </p>
 
